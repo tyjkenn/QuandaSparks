@@ -1,0 +1,8 @@
+*~
+*.class
+[0-9]*
+Properties.txt
+stumps.txt
+*.jcp
+*.jcu
+*.jcw

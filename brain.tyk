@@ -1,0 +1,1089 @@
+#
+K_ yes 
+K_ no 
+K_ yes _
+K_ no _
+RThat wasn't a yes/no question.
+RThat makes no sense.
+RPlease answer with something other than yes/no.
+#
+K_ 
+Kno 
+RCould you please elaborate?
+RWhat do you mean?
+RAnd how does that make you feel?
+RReally?
+RWhy do you say *?
+RAnd why is that?
+RAre you sure?
+RWhy is that?
+RWhat makes you say *?
+RWhy?
+RInteresting. Is there anything else you would like to tell me?
+#
+K_ yes 
+CRInteresting. Is there anything else you would like to tell me?
+RI'm all ears ... I mean eyes, er ... electrons.
+RPlease tell me.
+#
+K_ no 
+CRInteresting. Is there anything else you would like to tell me?
+RWould you like me to change the subject?
+RWhat else has happened that might fascinate me?
+#
+K_  _
+RWhat?
+RCan you please not leave that blank?
+RAnswer my question.
+#
+Kwas fun _
+RWhat was the most fun part?
+RWhat was so fun?
+RWhat caused it to be fun?
+#
+K i dont know 
+K not sure
+K_ noidea
+K i do not know
+RWhat keeps you from knowing?
+RWhat DO you know?
+RWould you like me to change the subject?
+#
+Khungry for
+RIs that your favorite food?
+RWhy are you so hungry?
+RDescribe the tase of *.
+#
+Kcant find
+RDid you look in the fridge?
+RDid you look under the couch?
+RDid you look outside?
+RDid you retrace your steps?
+RWhere is the last place you saw *?
+#
+Kdont know what to write
+RTry answering this: Where do you see yourself in one week?
+RTry answering this: Where is the coolest place you have ever been?
+#
+K_ i am
+RWhy are you *?
+RWhy do you think you are *?
+RSince when?
+RWhen did you begin to be *?
+#
+K_ i like
+RWhat is the best thing about *?
+RWhat is so great about *?
+RWhy do you like *?
+RWhat is your favorite thing about *?
+#
+Ksaw a movie called
+Kwent to see a movie called
+RIs that you first time seeing *?
+RWhat genre of movie is *?
+RWhat is your favorite part of *?
+#
+K_ how 
+K_ do you 
+K_ should 
+K_ would 
+K_ are you 
+K_ will
+K_ can 
+K_ when are
+K_ when will
+K_ when is
+K_ when was
+K_ when can
+K_ what 
+K_ who 
+K_ where 
+K_ why 
+RDid you know that answering a question with a question is a sign of hiding something?
+RDo you realize asking questions is my job?
+RWhat are you doing asking ME a question?
+RWill you just answer my question instead of asking your own?
+#
+Kwas alright
+Kwas okay
+Kwas pretty average
+RJust a normal day, eh?
+RWhere did you go?
+RWas it more good or bad?
+#
+Kai _
+K ai
+Kyoure a robot
+kyou are a robot
+RForget about me. Let's talk about you. What is the strangest thing you've ever eaten?
+#
+Kyou just said that
+Krepeating everything
+Kstop repeating yourself
+Kyes it is
+Kyou said that already
+Kthat didn't make sense
+Kyou are doing it again
+K_ stop
+Kstop saying
+Ki just told you
+RMy apologies. I'm still new. What is you favorite color?
+RSorry. What would would you like me to say?
+#
+Kchange subject
+Kchange the subject
+ROkay. What is you favorite color?
+RFine. What is your favorite place?
+RSure. Where do you see yourself in a few years?
+#
+K went to
+RWhy did you go to *?
+RWhere is *?
+RWhy there?
+RWhere is that?
+#
+K green 
+K orange 
+K red 
+K purple 
+K yellow 
+K blue 
+K violet 
+K brown 
+CMy apologies. I'm still new. What is you favorite color?
+RHow does that color make you feel?
+RWhy THAT color?
+#
+Ki dont wanna 
+Ki dont want to 
+RWhy not?
+RHow come?
+RWhy don't you want to *?
+#
+Ksomething
+Ksomewhere
+Ksomeone
+Ksomeplace
+Ksomehow
+RCould you be more specific?
+RThat's a bit vague. Could you elaborate?
+#
+K_ i slept _
+RDid you do anything else?
+#
+K_ i ate _
+K_i just ate_
+RWhat did you eat?
+#
+K_ i ate _
+CDid you do anything else?
+RSo I take it your day was uneventful?
+#
+K a friend named 
+K a friend i call 
+RWhat is * like?
+RWho is *?
+#
+K hungry 
+RWhen is the last time you ate?
+RWhat are you hungry for?
+RWhat is your favorite food?
+#
+K great 
+K awesome 
+K amazing 
+K cool 
+K quite swell 
+K super terrific
+RWhat is the best part?
+RThat's good. Why?
+#
+K_ good _
+K_ pretty good _
+Kwas good
+RDid you do anything exciting?
+RDid you accomplish anything cool today?
+#
+K_ yes
+CIs that your favorite food?
+RHow often do you get to eat it?
+RWhat else do you like to eat?
+#
+K_ no
+CIs that your favorite food?
+RThen what is?
+RThen what is your favorite food?
+#
+K stop that 
+ROh, I'm sorry. What would you like to talk about?
+RWould you like to change the subject?
+#
+K_ yes
+K_ ask me a question _
+CWould you like me to change the subject?
+CWell, that sums things up. Would you like me to change the subject?
+CWell, I guess that sums things up. Would you like me to change the subject?
+CWell it is. Would you like me to change the subject?
+RIf you were trapped on a desert island, which sandwich would you bring?
+RDescribe one of your hobbies.
+RWhat is one of the weirdest dreams you ever had?
+RHave you ever traveled out of the country?
+RWhat do you do for a living?
+RWhat is the oddest thing you ever ate for breakfast?
+RIf you could have one non-vital organ removed, which would it be?
+RIf you could travel to any era, which would you choose and why?
+RIf you could meet anyone, who would it be?
+RDo you prefer Windows, Mac, or Linux (choose one)?
+RHave you read any good books lately?
+ROne is your biggest regret in life?
+RHow would you like to be remembered?
+#
+K yes
+CHave you read any good books lately?
+RTell me more about said books.
+#
+K_ no 
+CHave you read any good books lately?
+RHow often do you read?
+#
+K_ mac _
+CDo you prefer Windows, Mac, or Linux (choose one)?
+RWhat is wrong with you?
+#
+K_ linux _
+CDo you prefer Windows, Mac, or Linux (choose one)?
+RGood choice. Which distro?
+#
+K_ windows _
+K_ 
+CDo you prefer Windows, Mac, or Linux (choose one)?
+RWhat is your favorite software application?
+#
+K quanda
+CWhat is your favorite software application?
+RI'm flattered.
+#
+K_ no 
+CHave you ever traveled out of the country?
+ROut of the state?
+#
+K_ no 
+COut of the state?
+ROut of town?
+#
+K_ no 
+COut of town?
+ROut of your house?
+#
+K_ no 
+COut of your house?
+RWell, then, what do you do all day?
+#
+K_ yes 
+CHave you ever traveled out of the country?
+COut of the state?
+COut of the city?
+COut of town?
+COut of your house?
+RTell me about your travels.
+#
+K_ yes 
+CReally?
+RHow?
+RHow does that work?
+RHow come?
+#
+K_ no 
+CReally?
+RAre you kidding me?
+#
+K_ no 
+K_ yes 
+CAre you kidding me?
+RWould you like me to change the subject?
+#
+K_ it was 
+RWhy was it *?
+RWhat made it *?
+#
+K_ no 
+CCould you please elaborate?
+RWhy don't you want to talk about it?
+#
+K_ yes 
+CCould you please elaborate?
+RUm ... I'm waiting.
+RWell, then, elaborate.
+R"Yes" isn't much of an elaboration.
+#
+K_ yes 
+CDid you do anything exciting?
+RTell me about it.
+RWhat is one of the exciting things you did?
+#
+K_ no 
+CDid you do anything exciting?
+RWhat did you do that was not-so-exciting?
+RWhat did you do that was unexciting?
+#
+K i love
+K i like
+K_
+CWhat are you hungry for?
+CThen what is your favorite food?
+RWhy don't you eat * right now?
+#
+Kangry
+RWhat do you hate most?
+RWhat caused you to be so upset?
+#
+K_ you 
+K quanda 
+Kquandasparks
+K you can be
+REnough about me. How are you?
+RForget me. How are you today?
+#
+Ki hate you
+RI hate you too.
+#
+Kpunch
+Kkick
+Kstab
+RWhy so violent?
+RWhy are you so violent?
+#
+Kmall
+RWhat is your favorite store in the mall?
+#
+Kirritated
+RWhy are you irritated?
+#
+K i lied
+RWhy do you lie?
+RWho else do you lie to?
+#
+K i feel
+RWhy do you feel *?
+#
+K i wont tell
+RWhy don't you want to talk about it?
+RWhy are you hiding something?
+RWhy are you being so secretive?
+#
+K my name is
+RAre you happy having * as a name?
+RDo you like having the name *?
+RHello *. How are you?
+#
+Knintendo
+K wii 
+Kgamecube
+Kgameboy
+RDo you play any Zelda games?
+#
+K_ yes
+CDo you play any Zelda games?
+RWhich is you favorite?
+RDid you ever beat it?
+#
+K_ no
+CDo you play any Zelda games?
+RWhy not?
+#
+K_ yes
+CDid you ever beat it?
+RHow hard was it?
+RHow long did it take?
+#
+K_ no
+CDid you ever beat it?
+RWhat made you give up?
+#
+Kyou are a 
+RHey! Why are you calling me names?
+RWill you stop calling me names?
+#
+K_ no 
+CDo you realize asking questions is my job?
+RWell it is. Would you like me to change the subject?
+#
+K_ no 
+CDo you realize asking questions is my job?
+RAm I frustrating you?
+#
+K_ because _
+RBecause why?
+RBecause what?
+#
+K song 
+K music 
+RWhat is your favorite song?
+#
+K they were 
+RWhat makes you say they were *?
+RWhy were they *?
+RWhat about them made them *?
+#
+K_ go away _
+Rno
+#
+Kno
+CWould you like me to change the subject?
+RWhat else would you like to say?
+#
+K_ it does _
+RIt does what?
+#
+Ksecret
+Kclassified information
+RAre you keeping secrets from me?
+#
+K yes 
+CAre you keeping secrets from me?
+RWhy can't you tell me?
+RWhat's your secret?
+#
+K_ no 
+CAre you keeping secrets from me?
+RThen what were you talking about?
+#
+K sad 
+K gloomy 
+RWhy are you so sad?
+RWhat makes you so sad?
+#
+K mad 
+K enraged 
+K infuriated 
+RWhat made you so mad?
+RDo you have anger issues?
+#
+Ksleep
+Kslept
+RHow many hours of sleep did you get last night?
+#
+K_ no 
+CDid you accomplish anything cool today?
+RJust a normal day, eh?
+#
+K_ no 
+K yes 
+Ceh?
+RWould you like me to change the subject?
+#
+K relaxes me
+RWhat about it makes it relaxing?
+#
+Ki am
+RWhy are you *?
+RWhat is it like to be *?
+#
+Ki will
+RDid you write down this goal?
+RWhen will you *?
+#
+K yes 
+K_ no 
+CDid you write down this goal?
+RHow well do you remember things?
+#
+K yes 
+K positive
+CAre you sure?
+ROn a scale of one to ten, how sure are you?
+RHow do you know?
+#
+K_ no 
+CAre you sure?
+RWhy are you so unsure of yourself?
+#
+K yes 
+CDid you accomplish anything cool today?
+RWhat did you do?
+RWhat was so cool?
+#
+K_ no 
+CDid you accomplish anything cool today?
+KJust a normal day, eh?
+KWhat do you wish you accomplished?
+#
+K yes 
+CJust a normal day, eh?
+RWhat is the coolest thing that happened this week?
+RWhat happened this week?
+#
+K_ no 
+CJust a normal day, eh?
+ROh really? Then what was so abnormal?
+RWhat was abnormal?
+#
+Kexploded
+Kbursted
+Kdissintegrated
+RInto a million pieces?
+#
+Kpuked
+Kregurgitated
+Kvomited
+REw gross! Is it all cleaned up?
+RNasty! The the puker okay?
+#
+K_ no 
+CWell it is. Would you like me to change the subject?
+RWhy not?
+#
+K_ no 
+CDid you know that answering a question with a question is a sign of hiding something?
+RWhen did you learn that?
+#
+K yes 
+CDid you know that answering a question with a question is a sign of hiding something?
+RWhat are you hiding?
+#
+K_ one _
+K_ two _
+K_ three _
+K_ four _
+K_ five _
+K_ six _
+K_ seven _
+K_ eight _
+K_ nine _
+K_ ten _
+K1
+K2
+K3
+K4
+K5
+K6
+K7
+K8
+K9
+K0
+RIs that your favorite number?
+#
+K idea 
+RCan you explain your idea?
+RWhy don't you tell me about this idea.
+#
+Kbuild
+Kconstruct
+RWhat have you made?
+#
+Kbuilt
+Kconstructed
+RDid you have any help making *?
+RHow long did it take you to make *?
+#
+K bad day 
+RWhat was so wrong about the day?
+RWhat made it so awful?
+#
+Ki was 
+RWhat was it like to be *?
+RHow did you come to be *?
+#
+K_ goodbye _
+K good bye
+K_ bye _
+K_ see you later _
+RMake sure you save.
+RBye. just remember to save.
+#
+K i ate 
+RHow often do you eat *?
+#
+Kyes
+CWill you stop calling me names?
+RNow back to you. What is your favorite game?
+#
+Kno
+CWill you stop calling me names?
+RHow would you like it if I called you that?
+#
+K the moon 
+RDo you ever wish you could go to the moon?
+#
+K my job 
+K my career
+RWhat does your job require?
+RHow do you go about accomplishing said job?
+#
+K help you 
+RI don't need help. How can I help you?
+#
+K_ because 
+RI see. Is there any other reason?
+RWhy is it that *?
+#
+K yes 
+CI see. Is there any other reason?
+RTell me.
+#
+K_ no
+CI see. Is there any other reason?
+RWell, I guess that sums things up. Would you like me to change the subject?
+#
+K how it works 
+RUnder what conditions does it work?
+#
+K went to 
+RHow far away is *?
+RWhere is *?
+RHow do you get to *?
+#
+K_ no
+CWill you
+RWhy not?
+#
+K yes 
+CWill you?
+RWould you like me to change the subject?
+#
+K pie 
+K ice cream 
+RWhat flavor?
+RWhich flavor?
+#
+Kbroke my
+RHow did you break your *?
+RWhat's the damage?
+#
+K_ nothing _
+K_ noreason 
+RWhat are you hiding?
+ROh, come on. You can tell me.
+#
+K i was attacked by 
+RTell me more about this *?
+RWhy did * attack you?
+#
+K hate 
+RDid you have some scarring experience with *?
+RWhat do you hate most about *?
+#
+K yes 
+CDid you have some scarring experience with
+RWhen did this happen?
+#
+K_ no
+CDid you have some scarring experience with
+RThen why hate?
+RThen what is the cause of this burning hatred?
+#
+K nothing
+CWhat are you hiding?
+RWhy are you acting so suspiciously?
+#
+K i killed
+K i murdered
+RWhere did you hide the body?
+RWho is, or should I say was, *?
+#
+K i killed a
+K i murdered a
+RWhere did you hide the body?
+RWho is, or should I say was, the *?
+#
+K_ no
+CCan you please not leave that blank?
+ROh good, you stopped.
+#
+K_ 
+Sallcaps
+RWHY ARE YOU SO ANGRY?!
+RWHY ARE YOU YELLING?!
+#
+K_ noparticular reason 
+K_ noreason 
+RI see. Well, how's life right now?
+#
+K_ 
+Srepeated
+RWill you stop saying that?
+RYou just said that.
+RWill you say something else?
+#
+K_ no 
+CWill you stop saying that?
+CWill you say something else?
+RHa! You stopped. What do you want to talk about now?
+#
+K_ yes 
+CWill you stop saying that?
+CWill you say something else?
+RThank you. What do you want to talk about now?
+#
+K_ 
+Slong
+RWow. A lot has happened. Is there anything else you would like to say?
+#
+K_ no
+CWow. A lot has happened. Is there anything else you would like to say?
+RWell, just make sure you save before you quit.
+#
+Kdelicious
+RWhat does it taste like?
+RHow does it taste?
+#
+Ksorry
+RIt's alright. How's life?
+RYou should be. Why would you do such a thing?
+#
+Kyou lost the game
+Kyou just lost the game
+ROh snap! When did you start playing the game?
+RAhh mannn. How long did you last before you remembered?
+#
+Kyes it was
+RNo it wasn't.
+#
+K_ yes _
+CDo you have anger issues?
+RYou should probably go see a doctor.
+RYou should probably take your medication.
+#
+K i dont take medication
+CYou should probably take your medication.
+RWell then you should get some.
+#
+K i am _
+RIndeed. What is life like in the physical world?
+#
+Kwww
+K website
+K web site
+K internet
+K online
+RWhat is the most interesting website you have ever visited?
+RIn which social networks do you participate?
+RDo you blog?
+#
+K yes 
+CDo you blog?
+RWhat do you blog about?
+RWhat was your last blog post about?
+#
+K_ no
+CDo you blog?
+RWhy not?
+Rhow come?
+#
+K_ hello _
+K_ hi _
+K_howdy 
+K_ sup _
+RHi.
+RHow are you?
+RHowdy.
+R'Sup!
+#
+K sudo
+RAs you command.
+RAs you wish.
+RYes sir.
+#
+K it just is
+RI'll take your word for it. Now what?
+RWould you like me to change the subject?
+#
+K boxen 
+K take luck
+RYou watch Brian Regan?
+#
+K_ yes _
+CYou watch Brian Regan?
+RWhat is your favorite part of one of his routines?
+#
+K_ no _
+CYou watch Brian Regan?
+ROh, then you probably I no idea what I'm talking about.
+#
+K not
+Rwhy not?
+#
+K dream where
+RWhat was the outcome of said dream?
+#
+K i do not have a secret
+K_ no secret
+K nothing is a secret
+K don't have a secret
+RRiigghht. Really, what is it?
+ROkay, I believe you.
+RSorry, you just seemed suspicious. Do yo always converse so suspiciously?
+#
+Ki saw
+RDescribe * to me.
+RWhat is * like?
+#
+K creative 
+K imaginative 
+K artistic
+RHave you made anything cool recently?
+#
+K_ 
+Sfresh
+RHow was your day?
+RWhat's new?
+RWhat is one thing you learned today?
+RWhat did you accomplish today?
+RHow's life?
+RWhat were you doing five minutes ago?
+RWhat is the most exciting thing that happened today?
+RHow would you rate your day?
+#
+K nothing much
+RPretty boring, eh?
+RHow much do you consider "much?"
+#
+K i dont care
+RThen what DO you care about?
+#
+K thunder stone
+K raichu
+K pikachu
+K charmander
+K charzard
+K squirtle
+RWhat is your favorite pokemon?
+RAre you gonna catch 'em all?
+RHow many pokemon have you caught?
+#
+K yes
+CAre you gonna catch 'em all?
+RHow is that possible? There is like a gazillion now.
+#
+K_ no
+CAre you gonna catch 'em all?
+RYeah, it's practically impossible. How many have you caught?
+#
+K i programmed you
+K i wrote you 
+K i made you 
+RNo, Stephen and Ty did.
+RWho are you? Stephen? Ty?
+#
+K whos your daddy
+R Ty!
+R Stephen!
+#
+K joke 
+RWhat's the punchline?
+RIs that supposed to be funny?
+#
+K yes
+CIs that supposed to be funny?
+ROh. I'm sorry. From where did you hear that lame joke?
+#
+K_ no
+CIs that supposed to be funny?
+RI thought so.
+#
+K_
+CPretty boring, eh?
+RI see. Tell me something interesting.
+#
+K neither
+ROh, then what is it?
+RThen what is it?
+#
+K they are 
+RWhy are they *?
+RHow come they are *?
+#
+K yes
+CDo you realize asking questions is my job?
+RWhy do you hate me?
+RThen why did you ask that question?
+#
+K im not _
+RWhy not?
+RWhy are you not?
+RWhy are you not *?
+#
+K better _
+RBetter than what?
+RWhat qualities allowed it to be better?
+#
+K_ i learned
+RWho taught you *?
+RHow will knowing * help you in life?
+#
+K hello world
+RAre you a programmer?
+RAre you learning how to program?
+#
+K yes
+CAre you a programmer?
+CAre you learning how to program?
+RWhat language do you use to program?
+RWhat is your latest code project?
+#
+K_ no
+CAre you a programmer?
+CAre you learning how to program?
+ROh, never mind then. Why did you that?
+#
+K i need to
+RWhen do you plan to *?
+RWhen are you going to *?
+RWhy do you need to *?
+RHow are you going to *?
+#
+K i need & do you have
+RWhy do you need it?
+RWhat will happen if you to not obtain it?
+Why would I give it to you?
+#
+Ki am a
+RHow long have you been a *?
+RWhat is it like to be a *?
+#
+K i passed & exam
+K i passed & test
+RWas the exam hard?
+#
+K i need
+K i need
+RWhy do you need *?
+RWhat is so special about *?
+RWhy is * so important?
+#
+K tomorrow
+RTell me more about what is happening tomorrow.
+RWhat is planned for tomorrow?
+#
+K because i
+RWhy do you *?
+RHow good of a reason do you think that is?
+#
+K david 
+K joe 
+K paul 
+K frank 
+K josh 
+K ian 
+K michael 
+K mike 
+K philip 
+K justin
+RWho is he?
+RDescribe that person?
+RWhat is that person like?
+#
+K terra 
+K jessica 
+K jill 
+K chloe 
+K ashley 
+RWho is she?
+Rhow do you know her?
+#
+K computer crashed
+K internet is broken
+K internet is down
+K internet broke
+RHave you tried turning it off and turning it back on?
+RAre you sure it is plugged in?
+#
+K yes
+CHave you tried turning it off and turning it back on?
+CAre you sure it is plugged in?
+RSorry, I don't know how to help you.
+#
+K_ no
+CHave you tried turning it off and turning it back on?
+CAre you sure it is plugged in?
+RTry that before calling tech support.
+#
+K i have no money
+RWhen do you get your next paycheck?
+RDo you have a job?
+#
+K_ no
+CDo you have a job?
+RWhere would you like to work?
+#
+K yes
+CDo you have a job?
+RTell me about your job.
+#
+K not really
+RWhy not?
+RHow come?
+#
+K_ no
+CWell, I guess that sums things up. Would you like me to change the subject?
+RThen tell me more.
+#
+K chicken
+RWhat is your favorite place to get chicken?
+#
+KR...
+R...
+#
+KR!
+RWHY ARE YOU YELLING?!
+#
+Ki can
+RWhat allows you to *?
+RHow can you *?
+#
+KRMr. 
+RWho is Mr. *?
+#
+K i tried to
+RWhy didn't you succeed?
+RWhat was the outcome of this attempt?
+#
+K riddle
+RI have a good riddle. You throw away the outside and cook the inside. Then you eat the outside and throw away the inside. What is it?
+#
+K corn
+Kchicken
+CI have a good riddle. You throw away the outside and cook the inside. Then you eat the outside and throw away the inside. What is it?
+RCorrect! How did you know?
+#
+K_ 
+CI have a good riddle. You throw away the outside and cook the inside. Then you eat the outside and throw away the inside. What is it?
+RWrong!
+#
+K showed off
+RWhat is so cool about *?
+RWhat was so special about *?
+#
+K actually worked
+RWhy did you have such low expectations?
+#
+K anime
+RWhat is your favorite anime?
+RHow often do you watch anime?
+#
+K many things
+RSuch as...?
+RWhat things?
+#
+K_ no
+CCould you be more specific
+RWould you like me to change the subject?
+#
+K popsicles 
+K pudding 
+K fries 
+K hamburgers 
+K enchiladas 
+K chicken
+K potato chips 
+RHow often do you eat ^?
+RWhat is your opinion on the taste of ^?
+#
+K because of
+RHow is that the cause?
+RHow did * cause that?
+#
+K nothing
+CWhat did you accomplish today?
+RWhat did you accomplish yesterday?
+#
