@@ -12,3 +12,6 @@ search through its knowledge base to construct an appropriate follow-up.
 Quanda isn't going to pass the Turing test, but it uses template responses
 to seem like a better listener. The conversation can then be saved in a text
 file for later review.
+
+While no robot learning has been added, Quanda also records whenever it is
+stumped, so the data can be used to update the knowledge base.
